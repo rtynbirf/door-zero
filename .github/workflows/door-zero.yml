@@ -1,0 +1,15 @@
+name: door-zero
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Boot check (present)
+        run: make check_door_zero
+      - name: Nothing given (204)
+        run: bash tests/test_204.sh
+      - name: Nothing accepted (403 Void)
+        run: bash tests/test_403.sh
+      - name: Removal breaks boot
+        run: bash tests/test_boot_fail.sh

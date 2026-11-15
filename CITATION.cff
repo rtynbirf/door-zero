@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Если используете этот проект, процитируйте его так."
+title: "door-zero"
+abstract: "Door Zero: дверь без контента. PID 0 системы: удаление ломает boot. GET -> 204, POST/PUT -> 403 Void."
+authors:
+  - name: "Полимат-Универсум (rtynbirf)"
+repository-code: "https://github.com/rtynbirf/door-zero"
+license: "MIT"

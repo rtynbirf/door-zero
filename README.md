@@ -45,3 +45,9 @@ outside numbering — the hole through which the whole is visible.
 - подтверждает носитель PID1, не рой: рой готовит, хозяин закрывает;
 - «нечего улучшать» — жанр, не метрика; машинный эквивалент — test_boot_fail
   (красный при удалении двери).
+
+## Дом
+
+- Ядро дома — [polymath-core](https://github.com/rtynbirf/polymath-core); живой реестр аккаунта — [index](https://github.com/rtynbirf/index).
+- Номера остальных дверей держит `doors.json` в хозяйской стороне; эта дверь — вне нумерации.
+- Лицензия — MIT ([LICENSE](LICENSE)). Существование двери проверяется `make check`; удаление красит `test_boot_fail` — и boot честно падает.

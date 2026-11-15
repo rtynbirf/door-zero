@@ -4,7 +4,7 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Boot check (present)
         run: make check_door_zero
       - name: Nothing given (204)

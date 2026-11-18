@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Door Zero: дверь без контента. PID 0 системы: удаление ломает boot" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/banner.png" width="100%" alt="Door Zero: дверь без контента. PID 0 системы: удаление ломает boot" />
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза door-zero: мастерская ПУСТОЙ ПРОЁМ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/repo-muse.svg" width="100%" alt="Муза door-zero: мастерская ПУСТОЙ ПРОЁМ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской ПУСТОЙ ПРОЁМ" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/forge-divider.svg" width="62%" alt="делитель мастерской ПУСТОЙ ПРОЁМ" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 

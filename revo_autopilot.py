@@ -10,7 +10,7 @@
 import hashlib, json, os, re, subprocess
 
 try:
-    CFG = json.loads(r'''{"name": "door-zero", "num": 65, "school": "ПУСТОЙ ПРОЁМ", "desc": "Door Zero: дверь без контента. PID 0 системы: удаление ломает boot. GET -> 204, POST/PUT -> 403 Void.", "topics": ["api-guard", "digital-sovereignty", "http", "http-api", "minimalism", "shell", "sovereignty", "zero-trust"], "releases": 0, "palette": {"bg": "#EFE6CF", "bg2": "#F6EFDC", "ink": "#241C10", "gold": "#9A7B23", "gold2": "#C9A227", "dim": "#6E6249", "accent": "#C43B27"}}''')
+    CFG = json.loads(r'''{"name": "door-zero", "num": 17, "school": "НОВОСТРОЙ РОЯ", "desc": "Door Zero: дверь без контента. PID 0 системы: удаление ломает boot. GET -> 204, POST/PUT -> 403 Void.", "topics": ["api-guard", "digital-sovereignty", "http", "http-api"], "releases": 0, "palette": {"bg": "#EFE6CF", "bg2": "#F6EFDC", "ink": "#241C10", "gold": "#9A7B23", "gold2": "#C9A227", "dim": "#6E6249", "accent": "#C43B27"}}''')
 except Exception:
     CFG = {"name": "REVO", "num": 0, "school": "", "desc": "", "topics": [], "releases": 0,
            "palette": dict(bg="#EFE6CF", bg2="#F6EFDC", ink="#241C10", gold="#9A7B23",

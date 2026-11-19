@@ -1,4 +1,10 @@
 <div align="center">
+
+<a href="https://github.com/rtynbirf/door-zero"><img src="banner.png" width="100%" alt="door-zero — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/banner.png" width="100%" alt="Door Zero: дверь без контента. PID 0 системы: удаление ломает boot" />
 </div>
 
@@ -17,7 +23,7 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 40 | 6 | 68 | 2026-11-19 | 0 |
+| 40 | 6 | 69 | 2026-11-19 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
 
 # Door Zero — дверь, которой нет

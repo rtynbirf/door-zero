@@ -4,10 +4,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/banner.png" width="100%" alt="Door Zero: дверь без контента. PID 0 системы: удаление ломает boot" />
-</div>
-
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/repo-muse.svg" width="100%" alt="Муза door-zero: мастерская ПУСТОЙ ПРОЁМ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
@@ -18,13 +14,31 @@
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы door-zero в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы door-zero №65 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 50 | 7 | 119 | 2026-11-28 | 0 |
+| 50 | 7 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# door-zero
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/.github/social-preview.png" alt="door-zero" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/door-zero"><img src="banner.png" width="100%" alt="door-zero — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/door-zero@main/banner.png" width="100%" alt="Door Zero: дверь без контента. PID 0 системы: удаление ломает boot" />
+</div>
+
+
+
+
 
 # Door Zero — дверь, которой нет
 
@@ -67,3 +81,5 @@ outside numbering — the hole through which the whole is visible.
 - Ядро дома — [polymath-core](https://github.com/rtynbirf/polymath-core); живой реестр аккаунта — [index](https://github.com/rtynbirf/index).
 - Номера остальных дверей держит `doors.json` в хозяйской стороне; эта дверь — вне нумерации.
 - Лицензия — MIT ([LICENSE](LICENSE)). Существование двери проверяется `make check`; удаление красит `test_boot_fail` — и boot честно падает.
+
+<!--ФОРЖ:ПОДВАЛ-->
